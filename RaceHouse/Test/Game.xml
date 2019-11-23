@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testCaseSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <testCase id="1">
+    <House No ="1">
+      <Power>5</Power>
+      <Race>1.2</Race>
+    </House>
+    <House No ="2">
+      <Power>3</Power>
+      <Race>2</Race>
+    </House>
+    <House No ="3">
+      <Power>2</Power>
+      <Race>4</Race>
+    </House>
+    <Target>1</Target>
+    <Money>50</Money>
+    <Result>110</Result>
+  </testCase>
+  <testCase id="2">
+    <House No ="1">
+      <Power>5</Power>
+      <Race>1.2</Race>
+    </House>
+    <House No ="2">
+      <Power>3</Power>
+      <Race>2</Race>
+    </House>
+    <House No ="3">
+      <Power>2</Power>
+      <Race>4</Race>
+    </House>
+    <Target>2</Target>
+    <Money>100</Money>
+    <Result>0</Result>
+  </testCase>
+  <testCase id="3">
+    <House No ="1">
+      <Power>5</Power>
+      <Race>1.2</Race>
+    </House>
+    <House No ="2">
+      <Power>3</Power>
+      <Race>2</Race>
+    </House>
+    <House No ="3">
+      <Power>2</Power>
+      <Race>4</Race>
+    </House>
+    <Target>3</Target>
+    <Money>100</Money>
+    <Result>0</Result>
+  </testCase>
+</testCaseSet>

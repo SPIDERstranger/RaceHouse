@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testCaseSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <testCase id="1">
+    <Pos>10</Pos>
+   <Speed>10</Speed>
+    <result>20</result>
+  </testCase>
+  <testCase id="2">
+    <Pos>10</Pos>
+    <Speed>-10</Speed>
+    <result>10</result>
+  </testCase>
+  <testCase id="3">
+    <Pos>10</Pos>
+    <Speed>0</Speed>
+    <result>10</result>
+  </testCase>
+</testCaseSet>

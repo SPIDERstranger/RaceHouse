@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testCaseSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <testCase id="1">
+    <input>10</input>
+    <result>**********马#1</result>
+  </testCase>
+  <testCase id="2">
+    <input>0</input>
+    <result>马#2</result>
+  </testCase>
+  <testCase id="3">
+    <input>20</input>
+    <result>********************马#3</result>
+  </testCase>
+</testCaseSet>
